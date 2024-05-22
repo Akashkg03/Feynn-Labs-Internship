@@ -3,7 +3,7 @@
 
 This repository contains the projects I did as an intern with Feynn Labs.
 
-- Internship Role: Machine Learning Intern
+- Internship Role: Data science Intern
 - Internship Duration: March, 2024 to May, 2024
 - Internship Mode: Virtual
 
